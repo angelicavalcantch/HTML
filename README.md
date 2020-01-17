@@ -2,7 +2,11 @@
 Practicing HTML
 
 In order to learn and practice HTML5, some exercises will be uploaded to keep the track of my studies.
-==> Bat Love Letter, to remember basic tags and styling using CSS3
+
+
+==> Bat Love Letter, to remember basic tags and styling using CSS3; 
+
+==> Pra me Refazer, lyrics and styling the page;  
 
 
 Source and reference: 
