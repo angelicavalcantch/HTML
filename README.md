@@ -10,6 +10,7 @@ In order to learn and practice HTML5 and CSS3, some exercises will be uploaded t
 
 ==> Learning through tutorials - Coding Artist; 
 
+==> Review CSS3 - background; image, repeat, attachment and position;
 
 
 
