@@ -1,0 +1,43 @@
+h1 {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+}
+#cir {
+    padding: 50px;
+}
+.circle {
+    width: 200px;
+    height: 200px;
+    background-color: rgb(154, 102, 202);
+    border-radius: 100px;
+}
+#tri {
+    padding: 50px;
+    align-items: center;
+}
+
+.triangle {
+    width: 0;
+    height: 0;
+    border-left: 100px solid transparent;
+    border-right: 100px solid transparent;
+    border-bottom: 200px solid red;
+}
+
+#squa {
+    padding: 50px;
+}
+
+.square {
+    width: 200px;
+    height: 200px;
+    background-color: rgb(218, 86, 108);
+}
+#rec {
+    padding: 50px;
+}
+.rectangle {
+    width: 400px;
+    height: 200px;
+    background-color: greenyellow;
+}
