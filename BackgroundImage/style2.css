@@ -1,0 +1,19 @@
+body {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 20px;
+    color: #F9F9F9;
+    background: #000000 url(mk.jpg) no-repeat fixed right top;
+}
+p {
+    text-align: justify;
+}
+a {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    border: double;
+    border-radius: 10px;
+    color: #F9F9F9;
+    text-decoration: dotted;
+}
+figure {
+    text-align: center;
+}

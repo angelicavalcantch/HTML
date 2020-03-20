@@ -1,0 +1,15 @@
+* {
+    font-family: 'Bad Script', cursive;
+    font-size: 50px;
+}
+body {
+    background-image: url(photo2.jpg), url(photo.jpg);
+    background-position: center top, center bottom;
+    background-repeat: no-repeat, no-repeat;
+
+    /*background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: contain;
+    background-clip: content-box;*/
+}
