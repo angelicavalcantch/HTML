@@ -1,0 +1,26 @@
+body {
+    font-family: 'Abel', sans-serif;
+    font-size: 30px;
+}
+h1 {
+    text-align: center;
+    padding: 20px;
+    background-color: #F9AAA1;
+    border-radius: 20px;
+}
+li {
+    list-style: "\1D11E";
+    padding: 5px;
+}
+a {
+    text-decoration: double;
+    color: #000000;
+    text-align: center;
+}
+img {
+    width: 290px;
+    height: 250px;
+    border-radius: 200px;
+    position: absolute;
+
+}
